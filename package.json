@@ -1,0 +1,15 @@
+{
+  "name": "02-prism-array",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.jsx",
+    "render": "remotion render src/index.jsx Motion preview.mp4 --gl=angle --concurrency=1"
+  },
+  "dependencies": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.363",
+    "@remotion/cli": "4.0.363"
+  }
+}

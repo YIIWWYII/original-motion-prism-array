@@ -1,0 +1,6 @@
+node_modules/
+.remotion/
+*.mp4
+*.webm
+*.zip
+.env*
